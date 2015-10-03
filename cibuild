@@ -18,7 +18,7 @@ bundle exec jekyll build
 #rm -rf ../gh-pages
 
 #clone `master' branch of the repository using encrypted GH_TOKEN for authentification
-git clone https://${GH_TOKEN}@github.com/breizhcamp/blog.git ../gh-pages
+git clone --branch=gh-pages https://${GH_TOKEN}@github.com/breizhcamp/blog.git ../gh-pages
 
 # copy generated HTML site to `gh-pages' branch
 cp -R _site/* ../gh-pages
@@ -30,4 +30,5 @@ git config user.email "gsylvain35k@gmail.com"
 git config user.name "Guernion Sylvain"
 git add -A .
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-git push --quiet origin gh-pages > /dev/null 2>&1 
+#git push --quiet origin gh-pages > /dev/null 2>&1 
+git push origin gh-pages
