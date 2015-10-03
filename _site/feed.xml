@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Breizhcamp</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://blog.breizhcamp.org//feed.xml" />
+<link rel="alternate" type="text/html" href="http://blog.breizhcamp.org/" />
+<updated>2015-10-03T11:07:32+01:00</updated>
+<id>http://blog.breizhcamp.org//</id>
+<author>
+  <name>Breizhcamp</name>
+  <uri>http://blog.breizhcamp.org//</uri>
+  <email>team@breizhcamp.org</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Go, Go, Go]]></title>
+ <link rel="alternate" type="text/html" href="http://blog.breizhcamp.org//2015/10/01/Gogogo.html" />
+  <id>http://blog.breizhcamp.org//2015/10/01/Gogogo</id>
+  <published>2015-10-01T11:52:38+01:00</published>
+  <updated>2015-10-01T11:52:38+01:00</updated>
+  <author>
+    <name>Breizhcamp</name>
+    <uri>http://blog.breizhcamp.org/</uri>
+    <email>team@breizhcamp.org</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Toute l’équipe du BreizhCamp se mobilise en cette rentrée pour vous préparée une édition 2016 à la hauteur de nos engagements.&lt;/p&gt;
+
+&lt;p&gt;Tout d’abord, nous vous avions promis de doubler la capacité d’accueil, les places pour 2015 étant toute parties en à peine 6 jour. Challenge relevé, avec un changement de lieu : nous serons accueillis en 2016 dans les locaux de l’Université Rennes 1. Pour nous cela veut dire pas mal d’inconnues à résoudre, mais le jeu en vaut la chandelle.&lt;/p&gt;
+
+&lt;p&gt;Ensuite, l’édition 2016 change de période et se déroulera du &lt;strong&gt;23 au 25 mars&lt;/strong&gt; - de toute façon en juin il pleut aussi. Ca peut sembler un détail mais pour nous cela veut dire qu’il faut sensiblement avancer notre agenda de préparation pour cette édition et grignoter 3 mois sur le rythme bien établi que la team avait acquis au cours des éditions précédentes.&lt;/p&gt;
+
+&lt;p&gt;Bref, nous allons vous faire part de tout ça dans ce nouveau blog, &lt;strong&gt;alors bienvenu à tous sur le blog de la team BreizhCamp !&lt;/strong&gt;&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.breizhcamp.org//2015/10/01/Gogogo.html&quot;&gt;Go, Go, Go&lt;/a&gt; was originally published by Breizhcamp at &lt;a href=&quot;http://blog.breizhcamp.org/&quot;&gt;Breizhcamp&lt;/a&gt; on October 01, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>
