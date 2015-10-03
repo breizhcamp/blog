@@ -15,7 +15,7 @@ bundle exec jekyll build
 
 
 # cleanup
-rm -rf ../blog
+#rm -rf ../blog
 
 #clone `master' branch of the repository using encrypted GH_TOKEN for authentification
 git clone https://${GH_TOKEN}@github.com/breizhcamp/blog.git ../blog
