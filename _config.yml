@@ -40,3 +40,5 @@ timezone:    Europe/Paris
 future:      true
 # Amount of posts to show on home page
 paginate: 5
+
+exclude: [vendor]
