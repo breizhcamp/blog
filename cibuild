@@ -15,17 +15,17 @@ bundle exec jekyll build
 
 
 # cleanup
-#rm -rf ../blog
+#rm -rf ../gh-pages
 
 #clone `master' branch of the repository using encrypted GH_TOKEN for authentification
-git clone https://${GH_TOKEN}@github.com/breizhcamp/blog.git ../blog
+git clone https://${GH_TOKEN}@github.com/breizhcamp/blog.git ../gh-pages
 
 # copy generated HTML site to `gh-pages' branch
-cp -R _site/* ../blog
+cp -R _site/* ../gh-pages
 
 # commit and push generated content to `master' branch
 # since repository was cloned in write mode with token auth - we can push there
-cd ../blog
+cd ../gh-pages
 git add -A .
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
 git push --quiet origin gh-pages > /dev/null 2>&1 
