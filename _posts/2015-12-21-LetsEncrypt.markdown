@@ -15,8 +15,11 @@ Nous avons donc décidé d'en profiter pour exposer le [CFP](https://cfp.breizhc
 
 Avant d'expliquer les étapes techniques de mise en œuvre, arrêtons nous un instant sur Let's Encrypt : il s'agit d'une autorité de certification libre qui apporte la possibilité d'obtenir des certificats X.509 pour le chiffrement TLS.
 La nouveauté réside principalement dans la combinaison de 3 éléments :
+
  *    Le service est gratuit. Il suffit de "posséder" un nom de domaine pour pouvoir l'utiliser.
+
  *    Le service est automatisable, notamment grâce à l'utilisation du protocole [ACME](https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment) : Automated Certificate Management Environment.
+
  *    Le service est opéré par un groupement d'intérêt public, [l'ISRP](https://letsencrypt.org/isrg/) : Internet Security Research Group, ayant pour but une gouverance ouverte et transparente.
 
 Il devient donc possible d'obtenir automatiquement et gratuitement des certificats émis par une autorité de certification en laquelle on peut *a priori* avoir confiance, ce qui représente une belle avancée pour la sécurité sur Internet.
