@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://blog.breizhcamp.org//feed.xml" />
 <link rel="alternate" type="text/html" href="http://blog.breizhcamp.org/" />
-<updated>2015-12-21T20:21:23+01:00</updated>
+<updated>2015-12-21T20:32:57+01:00</updated>
 <id>http://blog.breizhcamp.org//</id>
 <author>
   <name>Breizhcamp</name>
@@ -31,10 +31,19 @@ Nous avons donc décidé d’en profiter pour exposer le &lt;a href=&quot;https:
 &lt;h2 id=&quot;prambule&quot;&gt;Préambule&lt;/h2&gt;
 
 &lt;p&gt;Avant d’expliquer les étapes techniques de mise en œuvre, arrêtons nous un instant sur Let’s Encrypt : il s’agit d’une autorité de certification libre qui apporte la possibilité d’obtenir des certificats X.509 pour le chiffrement TLS.
-La nouveauté réside principalement dans la combinaison de 3 éléments :
- *    Le service est gratuit. Il suffit de “posséder” un nom de domaine pour pouvoir l’utiliser.
- *    Le service est automatisable, notamment grâce à l’utilisation du protocole &lt;a href=&quot;https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment&quot;&gt;ACME&lt;/a&gt; : Automated Certificate Management Environment.
- *    Le service est opéré par un groupement d’intérêt public, &lt;a href=&quot;https://letsencrypt.org/isrg/&quot;&gt;l’ISRP&lt;/a&gt; : Internet Security Research Group, ayant pour but une gouverance ouverte et transparente.&lt;/p&gt;
+La nouveauté réside principalement dans la combinaison de 3 éléments :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Le service est gratuit. Il suffit de “posséder” un nom de domaine pour pouvoir l’utiliser.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Le service est automatisable, notamment grâce à l’utilisation du protocole &lt;a href=&quot;https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment&quot;&gt;ACME&lt;/a&gt; : Automated Certificate Management Environment.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Le service est opéré par un groupement d’intérêt public, &lt;a href=&quot;https://letsencrypt.org/isrg/&quot;&gt;l’ISRP&lt;/a&gt; : Internet Security Research Group, ayant pour but une gouverance ouverte et transparente.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Il devient donc possible d’obtenir automatiquement et gratuitement des certificats émis par une autorité de certification en laquelle on peut &lt;em&gt;a priori&lt;/em&gt; avoir confiance, ce qui représente une belle avancée pour la sécurité sur Internet.&lt;/p&gt;
 
