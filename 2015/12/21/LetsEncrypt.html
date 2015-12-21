@@ -155,27 +155,33 @@ J’ai donc choisi d’exécuter le client dans un conteneur Docker sur le serve
 docker run -ti -p 80:80 ubuntu /bin/bash
 </code></p>
 
-<p>Puis j’ai installé et exécuté le client Let’s encrypt dans mon conteneur. Le client est exécuté en mode “standalone” et “certonly” (il lance un serveur HTTP sur le port 80, et génères le certificats sans chercher à les déployer) : </p>
+<p>Puis j’ai installé et exécuté le client Let’s encrypt dans mon conteneur. Le client est exécuté en mode “standalone” et “certonly” (il lance un serveur HTTP sur le port 80, et génères le certificats sans chercher à les déployer) :</p>
 
 <p><code>
 apt-get update
-</code>
-<code>
+</code></p>
+
+<p><code>
 apt-get install -y git
-</code>
-<code>
+</code></p>
+
+<p><code>
 git clone https://github.com/letsencrypt/letsencrypt
-</code>
-<code>
+</code></p>
+
+<p><code>
 cd letsencrypt
-</code>
-<code>
+</code></p>
+
+<p><code>
 ./letsencrypt-auto --help all
-</code>
-<code>
+</code></p>
+
+<p><code>
 ./letsencrypt-auto certonly --standalone --email contact@breizhcamp.org -d cfp.breizhcamp.org
-</code>
-Et voilà, le dossier <code>/etc/letsencrypt/</code> contient maintenant votre certificat, la clé privée associée, et la chaîne de certification complète. Il ne reste plus qu’à l’utiliser dans votre serveur Web préféré (ou, comme nous l’expliquerons dans un autre article, dans votre application Spring Boot).</p>
+</code></p>
+
+<p>Et voilà, le dossier <code>/etc/letsencrypt/</code> contient maintenant votre certificat, la clé privée associée, et la chaîne de certification complète. Il ne reste plus qu’à l’utiliser dans votre serveur Web préféré (ou, comme nous l’expliquerons dans un autre article, dans votre application Spring Boot).</p>
 
 
       <footer class="entry-meta">
