@@ -36,7 +36,7 @@ Après avoir arrêté le conteneur du CFP, j'ai donc lancé un nouveau conteneur
 docker run -ti -p 80:80 ubuntu /bin/bash
 ```
 
-Puis j'ai installé et exécuté le client Let's encrypt dans mon conteneur. Le client est exécuté en mode "standalone" et "certonly" (il lance un serveur HTTP sur le port 80, et génères le certificats sans chercher à les déployer) :
+Puis j'ai installé et exécuté le client Let's encrypt dans mon conteneur. Le client est exécuté en mode "standalone" et "certonly" (il lance un serveur HTTP sur le port 80, et génère les certificats sans chercher à les déployer) :
 
 ```
 apt-get update
