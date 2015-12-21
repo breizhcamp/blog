@@ -20,6 +20,8 @@ La nouveauté réside principalement dans la combinaison de 3 éléments :
 
  *    Le service est automatisable, notamment grâce à l'utilisation du protocole [ACME](https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment) : Automated Certificate Management Environment.
 
+![ACME]({{ site.url }}/images/acme.jpg)
+
  *    Le service est opéré par un groupement d'intérêt public, [l'ISRP](https://letsencrypt.org/isrg/) : Internet Security Research Group, ayant pour but une gouverance ouverte et transparente.
 
 Il devient donc possible d'obtenir automatiquement et gratuitement des certificats émis par une autorité de certification en laquelle on peut *a priori* avoir confiance, ce qui représente une belle avancée pour la sécurité sur Internet.
