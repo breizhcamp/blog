@@ -31,17 +31,29 @@ Ce client nécessite notamment que le port 80 soit "disponible" pour les échang
 J'ai donc choisi d'exécuter le client dans un conteneur Docker sur le serveur de production du CFP (qui n'était pas encore ouvert à l'époque, je me suis donc autorisé l'interruption de service générée par le fait d'arrêter le CFP le temps de générer le certificat).
 
 Après avoir arrêté le conteneur du CFP, j'ai donc lancé un nouveau conteneur Ubuntu en prenant le soin d'exposer le port 80 : 
+
 ```
 docker run -ti -p 80:80 ubuntu /bin/bash
 ```
 
 Puis j'ai installé et exécuté le client Let's encrypt dans mon conteneur. Le client est exécuté en mode "standalone" et "certonly" (il lance un serveur HTTP sur le port 80, et génères le certificats sans chercher à les déployer) : 
+
 ```
 apt-get update
+```
+```
 apt-get install -y git
+```
+```
 git clone https://github.com/letsencrypt/letsencrypt
+```
+```
 cd letsencrypt
+```
+```
 ./letsencrypt-auto --help all
+```
+```
 ./letsencrypt-auto certonly --standalone --email contact@breizhcamp.org -d cfp.breizhcamp.org
 ```
 Et voilà, le dossier `/etc/letsencrypt/` contient maintenant votre certificat, la clé privée associée, et la chaîne de certification complète. Il ne reste plus qu'à l'utiliser dans votre serveur Web préféré (ou, comme nous l'expliquerons dans un autre article, dans votre application Spring Boot).
