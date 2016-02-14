@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://blog.breizhcamp.org//feed.xml" />
 <link rel="alternate" type="text/html" href="http://blog.breizhcamp.org/" />
-<updated>2015-12-21T23:55:49+01:00</updated>
+<updated>2016-02-14T21:58:27+01:00</updated>
 <id>http://blog.breizhcamp.org//</id>
 <author>
   <name>Breizhcamp</name>
@@ -180,6 +180,284 @@ caméra - d’où la bande son assez dégeulasse, et la musique pour masquer le 
 
 
     &lt;p&gt;&lt;a href=&quot;http://blog.breizhcamp.org//2015/10/01/Gogogo.html&quot;&gt;Go, Go, Go&lt;/a&gt; was originally published by Breizhcamp at &lt;a href=&quot;http://blog.breizhcamp.org/&quot;&gt;Breizhcamp&lt;/a&gt; on October 01, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Premiers talks sélectionnés]]></title>
+ <link rel="alternate" type="text/html" href="http://blog.breizhcamp.org//2015/02/12/PremiersTalks.html" />
+  <id>http://blog.breizhcamp.org//2015/02/12/PremiersTalks</id>
+  <published>2015-02-12T17:39:38+01:00</published>
+  <updated>2015-02-12T17:39:38+01:00</updated>
+  <author>
+    <name>Breizhcamp</name>
+    <uri>http://blog.breizhcamp.org/</uri>
+    <email>team@breizhcamp.org</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Le &lt;a href=&quot;https://cfp.breizhcamp.org&quot;&gt;CFP&lt;/a&gt; est fermé depuis le 2 février … et l’équipe doit maintenant faire des choix pour établir un programme le plus équilibré possible. Pour cela, chaque membre de l’équipe passe en revue toutes les propositions et vote pour chacune d’elle. Les votes se terminent mercredi prochain (le 17/02) ouvrant ainsi la voie à l’élaboration du programme.&lt;/p&gt;
+
+&lt;p&gt;Sur la base d’environ 3000 votes, certaines propositions font l’unanimité. Nous pouvons donc les sélectionner et vous annoncer une (petite) partie du programme en avance de phase, histoire de vous allécher !&lt;/p&gt;
+
+&lt;p&gt;La suite des sélections viendra d’ici une semaine. Stay tuned …&lt;/p&gt;
+
+&lt;h2 id=&quot;en-rsum&quot;&gt;En résumé&lt;/h2&gt;
+
+&lt;h3 id=&quot;confrences-&quot;&gt;Conférences :&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#conf-1&quot;&gt;L’Ere de la Plateforme&lt;/a&gt; par Aline Paponaud&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#conf-2&quot;&gt;Ionic, Native Script, React native… Quel framework mobile hybride choisir ?&lt;/a&gt; par Stéphanie Moallic&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#conf-3&quot;&gt;Jenkins 2.0 - On jette tout et on recommence ?&lt;/a&gt; par Arnaud Héritier&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#conf-4&quot;&gt;Applications “cloud-native” avec Spring Cloud&lt;/a&gt; par Stéphane Nicoll&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#conf-5&quot;&gt;Docker en Production ? Et quid de la sécurité ?&lt;/a&gt; par Jean-Marc Meessen&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#conf-6&quot;&gt;Les nouveaux supers pouvoir du web&lt;/a&gt; par Jean-François Garreau&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tools-in-action&quot;&gt;Tools In Action&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#tia-1&quot;&gt;Flexbox, et le CSS redevient fun !&lt;/a&gt; par Hubert Sablonnière&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tia-2&quot;&gt;Déploiement ELK en conditions réelles&lt;/a&gt; par Geoffroy Arnoud&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tia-3&quot;&gt;Feedback Loop pour le développeur&lt;/a&gt; par Christophe Jollivet&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tia-4&quot;&gt;Introduction à la programmation Reactive avec RxJS&lt;/a&gt; par Grégory Houllier&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;universits&quot;&gt;Universités&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#univ-1&quot;&gt;Docker Birthday #3 Celebration - Training&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#univ-2&quot;&gt;Challenge Mindstorms - Tester votre capacité à développer&lt;/a&gt; par Aurélien Morvant et Sylvain Révereault&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;labs&quot;&gt;Labs&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#lab-1&quot;&gt;Angular 2 Getting Started&lt;/a&gt; par Wassim Chegham&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#lab-2&quot;&gt;Et si l’on codait l’IOT ?&lt;/a&gt; par Philippe Charrière&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;quickie&quot;&gt;Quickie&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#quickie-1&quot;&gt;XSS is beautiful ou comment j’ai hacké le CFP du BreizhCamp&lt;/a&gt; par Michel David&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vous trouverez les descriptions détaillées des talks retenus ci-dessous.&lt;/p&gt;
+
+&lt;h2 id=&quot;confrences-retenues&quot;&gt;&lt;em&gt;Conférences&lt;/em&gt; retenues&lt;/h2&gt;
+
+&lt;p&gt;&lt;a id=&quot;conf-1&quot;&gt;&lt;/a&gt;
+### L’Ere de la Plateforme &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Responsables de produit, équipes marketing, entrepreneurs, développeurs… Pour nous tous de nos jours, “créer une plateforme” ou “avoir son API” est un enjeu crucial. Cette session a pour objectif d’expliquer au travers de 7 étapes indispensables tous les impacts de la transition d’un ensemble logiciel vers une plateforme à tous les niveaux : produit, marketing, technique, projet, humain.&lt;/p&gt;
+
+  &lt;p&gt;Aujourd’hui, de grands noms du Web réalisent jusqu’à 90% de leur chiffre d’affaires grâce à leur Application Program Interface (API). C’est devenu un argument marketing. De leur côté, les développeurs sont depuis longtemps convaincus que le futur se trouve dans les plateformes.&lt;/p&gt;
+
+  &lt;p&gt;En tant que développeurs, il est facile de nous convaincre qu’une API ouverte est standard est le meilleur moyen de propulser nos applications vers plus de flexibilité, d’ouverture et de scalabilité. Pourtant… Il est difficile de transformer ces principes en une transition complète vers une plateforme. Et c’est bien de la même chose dont il est question ! Mener la construction d’une plateforme quand on est développeur implique de voir plus loin que le seul aspect logiciel.&lt;/p&gt;
+
+  &lt;p&gt;Dans cette session, je vous propose de parcourir la transition d’un ensemble logiciel Web / Services vers une plateforme et son API. En parlant d’abord des enjeux pour le produit, le business, et ensuite des aspects techniques et de conception, pour enfin en venir aux considérations essentielles sur le plan organisationnel et humain.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speakeuse : &lt;strong&gt;Aline Paponaud&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/bootis&quot;&gt;@bootis&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;conf-2&quot;&gt;&lt;/a&gt;
+### Ionic, Native Script, React native… Quel framework mobile hybride choisir ? &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Vous avez envie de développer une application mobile, mais quel framework  choisir parmi les plus populaires? Et si nous faisions un comparatif entre ces framework pour savoir comment orienter notre choix…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speakeuse : &lt;strong&gt;Stéphanie Moallic&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/steffy_29&quot;&gt;@steffy_29&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;conf-3&quot;&gt;&lt;/a&gt;
+### Jenkins 2.0 - On jette tout et on recommence ? &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;http://kohsuke.org/2011/01/11/bye-bye-hudson-hello-jenkins/&quot;&gt;Né Hudson en 2004&lt;/a&gt; le projet Jenkins est aujourd’hui omniprésent dans toutes les DSI.&lt;/p&gt;
+
+  &lt;p&gt;Avec plus de 600 releases, Jenkins a essayé (avec plus ou moins de succès) de conserver la compatibilité au fur et à mesure du temps que cela soit pour ses données (vos projets) ou son ecosystème (ses plugins).&lt;/p&gt;
+
+  &lt;p&gt;Aujourd’hui l’équipe a enfin pris la décision de lancer les développements de &lt;a href=&quot;https://groups.google.com/d/msg/jenkinsci-dev/vbXK7JJekFw/BlEvO0UxBgAJ&quot;&gt;Jenkins 2.0&lt;/a&gt; qui devrait voir le jour d’ici la fin du premier semestre de cette année.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Cela pose beaucoup de questions:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Pourquoi après plus de 10 ans, franchir enfin le pas dans la création d’une nouvelle version majeure?  &lt;/li&gt;
+    &lt;li&gt;Quels sont les changements et les nouveautés que les utilisateurs vont en tirer?&lt;/li&gt;
+    &lt;li&gt;Quels vont être les impacts en terme de compatibilité pour les utilisateurs et son ecosystème?  &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Si les réponses à ces questions vous intéressent cette conférence est faite pour vous!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speaker : &lt;strong&gt;Arnaud Héritier&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/aheritier&quot;&gt;@aheritier&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;conf-4&quot;&gt;&lt;/a&gt;
+### Applications “cloud-native” avec Spring Cloud &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Cette présentation commence par démonter le buzz “Microservices” et explique les avantages et les défis de ce type d’architecture. On parlera “Distributed/versioned configuration”, “Service registration and discovery”, “client-side load-balancing” ou encore “circuit breakers”. On expliquera tous ces concepts avec une application exemple réalisée avec Spring Cloud et Netflix OSS.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speaker : &lt;strong&gt;Stéphane Nicoll&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/snicoll&quot;&gt;@snicoll&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;conf-5&quot;&gt;&lt;/a&gt;
+### Docker en Production ? Et quid de la sécurité ? &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Envie de pousser votre application dockerisée jusqu’en Production ? Mais est-ce suffisamment mature pour protéger correctement les donnés et les systèmes qui nous sont confiés ?&lt;/p&gt;
+
+  &lt;p&gt;Docker est devenu une star technologique rendant accessible et utilisable la conteneurisation. En trois ans, cette techno a beaucoup murri et apporte désormais des réponses, souvent innovantes, aux challenges du monde de la Production. Beaucoup d’annonces passionnantes ont d’ailleurs été faites lors du Dockercon EU 2015 à Barcelone.&lt;/p&gt;
+
+  &lt;p&gt;Cet exposé fera l’état des lieux de l’aspect “sécurité” pour y voir plus clair à travers le “FUD” (Fear, Uncertainty and Doubt) qui entoure cette techno (surtout dans les milieux du Management). Nous aborderons des sujets comme “user name space”, “secarmor/selinux”, Trusted Registry, project Nautilus sans pour autant nécessiter une connaissance approfondie de Docker.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speaker : &lt;strong&gt;Jean-Marc Meessen&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/jm_meessen&quot;&gt;@jm_meessen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;conf-6&quot;&gt;&lt;/a&gt;
+### Les nouveaux supers pouvoir du web &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Et si je vous disais que votre navigateur est doté de pouvoirs dont vous n’avez pas conscience ?  Et si l’installation d’une application n’était plus nécessaire pour interagir de façon riche avec les objets qui nous entourent ?&lt;/p&gt;
+
+  &lt;p&gt;Bref, vous l’aurez compris dans ce talk, je vais vous parler des nouvelles possibilités qui s’offrent à vous en tant que développeur web et qui vont vous permettre de créer des applications web universelles !&lt;/p&gt;
+
+  &lt;p&gt;Nous évoquerons donc Sensors, Bluetooth, Physical Web, Usb, AppManifest, …&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speaker : &lt;strong&gt;Jean-François Garreau&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/jefbinomed&quot;&gt;@jefbinomed&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tools-in-action-retenus&quot;&gt;&lt;em&gt;Tools In Action&lt;/em&gt; retenus&lt;/h2&gt;
+
+&lt;p&gt;&lt;a id=&quot;tia-1&quot;&gt;&lt;/a&gt;
+### Flexbox, et le CSS redevient fun !&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tu penses que CSS c’est trop compliqué et que centrer verticalement un bloc relève de l’exploit, cette session est faite pour toi.&lt;/p&gt;
+
+  &lt;p&gt;Les Flexbox sont une nouvelle spécification W3C qui apportent à CSS une nouvelle manière de placer ses blocs sans hack.&lt;/p&gt;
+
+  &lt;p&gt;Au menu de cette session, du live-coding pour mieux comprendre comment ça marche, comment les utiliser et dans quels cas il serait compliqué de faire autrement. Nous aborderons également la question du support et l’outil auto-prefixer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speaker : &lt;strong&gt;Hubert Sablonnière&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/hsablonniere&quot;&gt;@hsablonniere&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;tia-2&quot;&gt;&lt;/a&gt;
+### Déploiement ELK en conditions réelles &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Le trio Elasticsearch-Logstash-Kibana est très populaire dans le monde de la supervision applicative. Cependant, pour déployer un unique cluster à l’échelle d’une entreprise, même en mettant de côté la volumétrie des données, il reste certains écueils à éviter :
+* Comment gérer la multitudes de serveurs, tous différents ?
+* Comment gérer les applications, également toutes différentes ?
+* Comment adresser la sécurité ?
+* Comment présenter des données pertinentes à des publics différents (exploitants, MOE, MOA…) ?&lt;/p&gt;
+
+  &lt;p&gt;Et tout cela sans alourdir la configuration du système ?&lt;/p&gt;
+
+  &lt;p&gt;Le but de cette présentation est de montrer la mise en place de la stack ELK, la configuration de base ; puis toute la logique permettant d’adresser la complexité d’un système d’information complet.&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;Outils utilisés : ELK, Redis, rsyslog, nxlog, sans oublier Excel !&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speaker : &lt;strong&gt;Geoffroy Arnoud&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;tia-3&quot;&gt;&lt;/a&gt;
+### Feedback Loop pour le développeur&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On nous parle Time To Market et boucle de feedback dans les projets agiles, mais qu’en est-il pour vous dans votre travail de tous les jours?&lt;/p&gt;
+
+  &lt;p&gt;Combien de temps mettez vous pour savoir que la ligne de code Java ou JavaScript que vous avez ajoutée fait bien ce que vous voulez? Que devez-vous faire pour vérifier que votre modification de CSS est la bonne ?&lt;/p&gt;
+
+  &lt;p&gt;Au cours de cette présentation, nous vous montrerons quelques outils et astuces pour vous permettre de réduire votre boucle de feedback. Nous aborderons les systèmes qui redémarrent automatiquement vos projets ou exécutent vos tests lors des changements de code. Enfin nous vous présenterons des outils permettant de synchroniser vos tests manuels entre plusieurs navigateurs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speaker : &lt;strong&gt;Christophe Jollivet&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/jollivetc&quot;&gt;@jollivetc&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;tia-4&quot;&gt;&lt;/a&gt;
+### Introduction à la programmation Reactive avec RxJS &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;La programmation reactive est un pattern dont la popularité ne cesse de grandir. Angular2 et Cycle.js se basent sur RxJS pour la gestion des flux d’évènements. Durant ce tools in action nous verrons les concepts et les possibilités offertes par RxJS notamment dans la simplification des traitements asynchrones dans une application JavaScript.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speaker : &lt;strong&gt;Grégory Houllier&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/ghoullier&quot;&gt;@ghoullier&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;universits-retenues&quot;&gt;&lt;em&gt;Universités&lt;/em&gt; retenues&lt;/h2&gt;
+
+&lt;p&gt;&lt;a id=&quot;univ-1&quot;&gt;&lt;/a&gt;
+### Docker Birthday #3 Celebration - Training &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Docker a 3 ans, et pour fêter l’événement Docker Inc. organise à travers le monde des &lt;em&gt;training&lt;/em&gt; pour initier les débutants. Profites du BreizhCamp pour découvrir cette techno les mains dans le cambouis.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speakers : Plusieurs experts locaux (annoncés sur le programme)&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;univ-2&quot;&gt;&lt;/a&gt;
+### Challenge Mindstorms - Tester votre capacité à développer &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nous vous proposons lors de ces quelques heures de relever un défi:
+- Nous fournissons le robot
+- Nous fournissons le challenge.
+- Vous fournissez les cerveaux&lt;/p&gt;
+
+  &lt;p&gt;Coder dans le langage que vous souhaitez, Python, Java ou LabView (Logiciel EV3 Lego), C++, NodeJS, …,  notre robot mindstorms.&lt;/p&gt;
+
+  &lt;p&gt;Mesurez-vous à d’autres développeurs, mesurer vous contre le temps qui court.&lt;/p&gt;
+
+  &lt;p&gt;Entraîner vous avec votre langage préféré, le jour J, il vous faudra faire preuve d’ingéniosité.&lt;/p&gt;
+
+  &lt;p&gt;Au final, nous verrons si le langage est plus fort que l’algorithmique !&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speakers :
+* &lt;strong&gt;Aurélien Morvant&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/AurelienMorvant&quot;&gt;@AurelienMorvant&lt;/a&gt;
+* &lt;strong&gt;Sylvain Révereault&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/srevereault&quot;&gt;@srevereault&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;labs-retenus&quot;&gt;&lt;em&gt;Labs&lt;/em&gt; retenus&lt;/h2&gt;
+
+&lt;p&gt;&lt;a id=&quot;lab-1&quot;&gt;&lt;/a&gt;
+### Angular 2 Getting Started &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tu as entendu tout le monde parler d’Angular 2 mais tu n’as pas eu le temps de mettre les mains dans le code. Alors, retrousse tes manches et rejoins-nous dans ce hands on consacré à la découverte du monde merveilleux d’Angular 2.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speaker : &lt;strong&gt;Wassim Chegham&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/manekinekko&quot;&gt;@manekinekko&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;lab-2&quot;&gt;&lt;/a&gt;
+### Et si on codait l’IOT ? &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;L’IOT est le buzzword du moment (même si ça existe finalement depuis longtemps). Plutôt qu’uniquement en parler,  je vous propose un atelier où vous apprendrez à “faire” du MQTT,  ce qu’est CoAP, … J’aurais un/des objet(s) connecté(s) avec différents capteurs. Vous devrez vous connectez et interagir avec eux à partir de ce que je vous montrerai. Il y aura beaucoup JavaScript, du Java et même un peu de Python. A la sortie de l’atelier, vous aurez les idées plus claires sur ce que peut être l’IOT et comment en devenir un acteur.&lt;/p&gt;
+
+  &lt;p&gt;Objectifs:
+- apprendre à utiliser MQTT (broker+client)
+- survoler CoAP
+- Utiliser MQTT, le SDK Groove et Johnny Five  pour interagir avec du matériel physique (Raspberry Pi, GrovePi, Arduino)
+- Et si vous êtes assez rapide vous apprendrez à piloter un drone “en équipe”, avec MQTT et CylonJS (et si vous ne l’êtes pas, on pourra toujours continuer dehors, mes “Raspberries” fonctionnent sur batteries)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speaker : &lt;strong&gt;Philippe Charrière&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/k33g_org&quot;&gt;@k33g_org&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;quickie-retenu&quot;&gt;&lt;em&gt;Quickie&lt;/em&gt; retenu&lt;/h2&gt;
+
+&lt;p&gt;&lt;a id=&quot;quickie-1&quot;&gt;&lt;/a&gt;
+### XSS is beautiful ou comment j’ai hacké le CFP du BreizhCamp &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Qu’est qu’une XSS ?&lt;/p&gt;
+
+  &lt;p&gt;Une faille toute pourrie pour les Noobs, ça sert à rien, c’est que du Fishing.&lt;/p&gt;
+
+  &lt;p&gt;Je vais vous prouver le contraire avec un cas concret sur le site même du CFP du BreizhCamp! Une XSS est une porte d’entrée gigantesque à un grand nombre d’attaque web. A l’heure de la “cyberdéfense”, après les traditionnelles SQL injections,  il est indispensable de prendre en compte ce type d’attaque et de prendre en compte ce risque dans nos développements. La sécurité ne doit plus être le parent pauvre du développement.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Speaker : &lt;strong&gt;Michel David&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/mimah35&quot;&gt;@mimah35&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.breizhcamp.org//2015/02/12/PremiersTalks.html&quot;&gt;Premiers talks sélectionnés&lt;/a&gt; was originally published by Breizhcamp at &lt;a href=&quot;http://blog.breizhcamp.org/&quot;&gt;Breizhcamp&lt;/a&gt; on February 12, 2015.&lt;/p&gt;
   </content>
 </entry>
 
