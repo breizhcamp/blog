@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Premiers talks sélectionnés"
-date:   2015-02-12 16:39:38
+date:   2016-02-12 16:39:38
 description: "Première sélection de talks du programme"
 tags: [blog, breizhcamp, programme, cfp]
 ---
@@ -44,7 +44,8 @@ Vous trouverez les descriptions détaillées des talks retenus ci-dessous.
 ## *Conférences* retenues
 
 <a id="conf-1"></a>
-### L'Ere de la Plateforme 
+
+### L'Ere de la Plateforme
 
 >Responsables de produit, équipes marketing, entrepreneurs, développeurs... Pour nous tous de nos jours, "créer une plateforme" ou "avoir son API" est un enjeu crucial. Cette session a pour objectif d'expliquer au travers de 7 étapes indispensables tous les impacts de la transition d'un ensemble logiciel vers une plateforme à tous les niveaux : produit, marketing, technique, projet, humain.
 >
@@ -57,14 +58,16 @@ Vous trouverez les descriptions détaillées des talks retenus ci-dessous.
 Speakeuse : **Aline Paponaud** - [@bootis](https://twitter.com/bootis)
 
 <a id="conf-2"></a>
-### Ionic, Native Script, React native... Quel framework mobile hybride choisir ? 
+
+### Ionic, Native Script, React native... Quel framework mobile hybride choisir ?
 
 >Vous avez envie de développer une application mobile, mais quel framework  choisir parmi les plus populaires? Et si nous faisions un comparatif entre ces framework pour savoir comment orienter notre choix...
 
 Speakeuse : **Stéphanie Moallic** - [@steffy_29](https://twitter.com/steffy_29)
 
 <a id="conf-3"></a>
-### Jenkins 2.0 - On jette tout et on recommence ? 
+
+### Jenkins 2.0 - On jette tout et on recommence ?
 
 >[Né Hudson en 2004](http://kohsuke.org/2011/01/11/bye-bye-hudson-hello-jenkins/) le projet Jenkins est aujourd'hui omniprésent dans toutes les DSI.
 >
@@ -83,14 +86,16 @@ Speakeuse : **Stéphanie Moallic** - [@steffy_29](https://twitter.com/steffy_29)
 Speaker : **Arnaud Héritier** - [@aheritier](https://twitter.com/aheritier)
 
 <a id="conf-4"></a>
-### Applications "cloud-native" avec Spring Cloud 
+
+### Applications "cloud-native" avec Spring Cloud
 
 >Cette présentation commence par démonter le buzz "Microservices" et explique les avantages et les défis de ce type d'architecture. On parlera "Distributed/versioned configuration", "Service registration and discovery", "client-side load-balancing" ou encore "circuit breakers". On expliquera tous ces concepts avec une application exemple réalisée avec Spring Cloud et Netflix OSS.
 
 Speaker : **Stéphane Nicoll** - [@snicoll](https://twitter.com/snicoll)
 
 <a id="conf-5"></a>
-### Docker en Production ? Et quid de la sécurité ? 
+
+### Docker en Production ? Et quid de la sécurité ?
 
 >Envie de pousser votre application dockerisée jusqu'en Production ? Mais est-ce suffisamment mature pour protéger correctement les donnés et les systèmes qui nous sont confiés ?
 >
@@ -101,7 +106,8 @@ Speaker : **Stéphane Nicoll** - [@snicoll](https://twitter.com/snicoll)
 Speaker : **Jean-Marc Meessen** - [@jm_meessen](https://twitter.com/jm_meessen)
 
 <a id="conf-6"></a>
-### Les nouveaux supers pouvoir du web 
+
+### Les nouveaux supers pouvoir du web
 
 >Et si je vous disais que votre navigateur est doté de pouvoirs dont vous n’avez pas conscience ?  Et si l’installation d’une application n’était plus nécessaire pour interagir de façon riche avec les objets qui nous entourent ?
 >
@@ -114,6 +120,7 @@ Speaker : **Jean-François Garreau** - [@jefbinomed](https://twitter.com/jefbino
 ## *Tools In Action* retenus
 
  <a id="tia-1"></a>
+
 ### Flexbox, et le CSS redevient fun !
 
 >Tu penses que CSS c’est trop compliqué et que centrer verticalement un bloc relève de l’exploit, cette session est faite pour toi.
@@ -125,7 +132,8 @@ Speaker : **Jean-François Garreau** - [@jefbinomed](https://twitter.com/jefbino
 Speaker : **Hubert Sablonnière** - [@hsablonniere](https://twitter.com/hsablonniere)
 
 <a id="tia-2"></a>
-### Déploiement ELK en conditions réelles 
+
+### Déploiement ELK en conditions réelles
 
 >Le trio Elasticsearch-Logstash-Kibana est très populaire dans le monde de la supervision applicative. Cependant, pour déployer un unique cluster à l'échelle d'une entreprise, même en mettant de côté la volumétrie des données, il reste certains écueils à éviter :
 >* Comment gérer la multitudes de serveurs, tous différents ?
@@ -142,6 +150,7 @@ Speaker : **Hubert Sablonnière** - [@hsablonniere](https://twitter.com/hsablonn
 Speaker : **Geoffroy Arnoud**
 
  <a id="tia-3"></a>
+
 ### Feedback Loop pour le développeur
 
 >On nous parle Time To Market et boucle de feedback dans les projets agiles, mais qu’en est-il pour vous dans votre travail de tous les jours?
@@ -153,7 +162,8 @@ Speaker : **Geoffroy Arnoud**
 Speaker : **Christophe Jollivet** - [@jollivetc](https://twitter.com/jollivetc)
 
 <a id="tia-4"></a>
-### Introduction à la programmation Reactive avec RxJS 
+
+### Introduction à la programmation Reactive avec RxJS
 
 >La programmation reactive est un pattern dont la popularité ne cesse de grandir. Angular2 et Cycle.js se basent sur RxJS pour la gestion des flux d'évènements. Durant ce tools in action nous verrons les concepts et les possibilités offertes par RxJS notamment dans la simplification des traitements asynchrones dans une application JavaScript.
 
@@ -162,14 +172,16 @@ Speaker : **Grégory Houllier** - [@ghoullier](https://twitter.com/ghoullier)
 ## *Universités* retenues
 
 <a id="univ-1"></a>
-### Docker Birthday #3 Celebration - Training 
+
+### Docker Birthday #3 Celebration - Training
 
 >Docker a 3 ans, et pour fêter l'événement Docker Inc. organise à travers le monde des _training_ pour initier les débutants. Profites du BreizhCamp pour découvrir cette techno les mains dans le cambouis.
 
-Speakers : Plusieurs experts locaux (annoncés sur le programme)
+Speakers : Plusieurs experts du sujet (annoncés sur le programme)
 
 <a id="univ-2"></a>
-### Challenge Mindstorms - Tester votre capacité à développer 
+
+### Challenge Mindstorms - Tester votre capacité à développer
 
 >Nous vous proposons lors de ces quelques heures de relever un défi:
 >- Nous fournissons le robot
@@ -191,14 +203,16 @@ Speakers :
 ## *Labs* retenus
 
 <a id="lab-1"></a>
-### Angular 2 Getting Started 
+
+### Angular 2 Getting Started
 
 >Tu as entendu tout le monde parler d'Angular 2 mais tu n'as pas eu le temps de mettre les mains dans le code. Alors, retrousse tes manches et rejoins-nous dans ce hands on consacré à la découverte du monde merveilleux d'Angular 2.
 
 Speaker : **Wassim Chegham** - [@manekinekko](https://twitter.com/manekinekko)
 
 <a id="lab-2"></a>
-### Et si on codait l'IOT ? 
+
+### Et si on codait l'IOT ?
 
 >L'IOT est le buzzword du moment (même si ça existe finalement depuis longtemps). Plutôt qu'uniquement en parler,  je vous propose un atelier où vous apprendrez à "faire" du MQTT,  ce qu'est CoAP, ... J'aurais un/des objet(s) connecté(s) avec différents capteurs. Vous devrez vous connectez et interagir avec eux à partir de ce que je vous montrerai. Il y aura beaucoup JavaScript, du Java et même un peu de Python. A la sortie de l'atelier, vous aurez les idées plus claires sur ce que peut être l'IOT et comment en devenir un acteur.
 >
@@ -213,7 +227,8 @@ Speaker : **Philippe Charrière** - [@k33g_org](https://twitter.com/k33g_org)
 ## *Quickie* retenu
 
 <a id="quickie-1"></a>
-### XSS is beautiful ou comment j'ai hacké le CFP du BreizhCamp 
+
+### XSS is beautiful ou comment j'ai hacké le CFP du BreizhCamp
 
 >Qu'est qu'une XSS ?
 >
