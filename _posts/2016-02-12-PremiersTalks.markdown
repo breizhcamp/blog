@@ -74,7 +74,7 @@ Speakeuse : **Stéphanie Moallic** - [@steffy_29](https://twitter.com/steffy_29)
 >Avec plus de 600 releases, Jenkins a essayé (avec plus ou moins de succès) de conserver la compatibilité au fur et à mesure du temps que cela soit pour ses données (vos projets) ou son ecosystème (ses plugins).
 >
 >Aujourd'hui l'équipe a enfin pris la décision de lancer les développements de [Jenkins 2.0](https://groups.google.com/d/msg/jenkinsci-dev/vbXK7JJekFw/BlEvO0UxBgAJ) qui devrait voir le jour d'ici la fin du premier semestre de cette année.
-
+>
 >Cela pose beaucoup de questions:
 >
 >* Pourquoi après plus de 10 ans, franchir enfin le pas dans la création d'une nouvelle version majeure?  
