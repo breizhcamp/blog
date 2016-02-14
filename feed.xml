@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://blog.breizhcamp.org//feed.xml" />
 <link rel="alternate" type="text/html" href="http://blog.breizhcamp.org/" />
-<updated>2016-02-14T22:08:13+01:00</updated>
+<updated>2016-02-14T22:42:59+01:00</updated>
 <id>http://blog.breizhcamp.org//</id>
 <author>
   <name>Breizhcamp</name>
@@ -208,7 +208,9 @@
   &lt;p&gt;Au cours de cette présentation, nous vous montrerons quelques outils et astuces pour vous permettre de réduire votre boucle de feedback. Nous aborderons les systèmes qui redémarrent automatiquement vos projets ou exécutent vos tests lors des changements de code. Enfin nous vous présenterons des outils permettant de synchroniser vos tests manuels entre plusieurs navigateurs.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Speaker : &lt;strong&gt;Christophe Jollivet&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/jollivetc&quot;&gt;@jollivetc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Speakers :
+* &lt;strong&gt;Christophe Jollivet&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/jollivetc&quot;&gt;@jollivetc&lt;/a&gt;
+* &lt;strong&gt;Mickael Debonnaire&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/mdebonnaire&quot;&gt;@mdebonnaire&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a id=&quot;tia-4&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
