@@ -25,7 +25,7 @@ La suite des sélections viendra d'ici une semaine. Stay tuned ...
 ### Tools In Action
 * [Flexbox, et le CSS redevient fun !](#tia-1) par Hubert Sablonnière
 * [Déploiement ELK en conditions réelles](#tia-2) par Geoffroy Arnoud
-* [Feedback Loop pour le développeur](#tia-3) par Christophe Jollivet
+* [Feedback Loop pour le développeur](#tia-3) par Christophe Jollivet et Mickael Debonnaire
 * [Introduction à la programmation Reactive avec RxJS](#tia-4) par Grégory Houllier
 
 ### Universités
@@ -160,6 +160,7 @@ Speaker : **Geoffroy Arnoud**
 >Au cours de cette présentation, nous vous montrerons quelques outils et astuces pour vous permettre de réduire votre boucle de feedback. Nous aborderons les systèmes qui redémarrent automatiquement vos projets ou exécutent vos tests lors des changements de code. Enfin nous vous présenterons des outils permettant de synchroniser vos tests manuels entre plusieurs navigateurs.
 
 Speakers :
+
 * **Christophe Jollivet** - [@jollivetc](https://twitter.com/jollivetc)
 * **Mickael Debonnaire** - [@mdebonnaire](https://twitter.com/mdebonnaire)
 
@@ -199,6 +200,7 @@ Speakers : Plusieurs experts du sujet (annoncés sur le programme)
 >Au final, nous verrons si le langage est plus fort que l'algorithmique !
 
 Speakers :
+
 * **Aurélien Morvant** - [@AurelienMorvant](https://twitter.com/AurelienMorvant)
 * **Sylvain Révereault** - [@srevereault](https://twitter.com/srevereault)
 
