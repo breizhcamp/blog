@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://blog.breizhcamp.org//feed.xml" />
 <link rel="alternate" type="text/html" href="http://blog.breizhcamp.org/" />
-<updated>2016-02-14T22:42:59+01:00</updated>
+<updated>2016-02-14T22:47:29+01:00</updated>
 <id>http://blog.breizhcamp.org//</id>
 <author>
   <name>Breizhcamp</name>
@@ -47,7 +47,7 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;#tia-1&quot;&gt;Flexbox, et le CSS redevient fun !&lt;/a&gt; par Hubert Sablonnière&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#tia-2&quot;&gt;Déploiement ELK en conditions réelles&lt;/a&gt; par Geoffroy Arnoud&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tia-3&quot;&gt;Feedback Loop pour le développeur&lt;/a&gt; par Christophe Jollivet&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tia-3&quot;&gt;Feedback Loop pour le développeur&lt;/a&gt; par Christophe Jollivet et Mickael Debonnaire&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#tia-4&quot;&gt;Introduction à la programmation Reactive avec RxJS&lt;/a&gt; par Grégory Houllier&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -208,9 +208,12 @@
   &lt;p&gt;Au cours de cette présentation, nous vous montrerons quelques outils et astuces pour vous permettre de réduire votre boucle de feedback. Nous aborderons les systèmes qui redémarrent automatiquement vos projets ou exécutent vos tests lors des changements de code. Enfin nous vous présenterons des outils permettant de synchroniser vos tests manuels entre plusieurs navigateurs.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Speakers :
-* &lt;strong&gt;Christophe Jollivet&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/jollivetc&quot;&gt;@jollivetc&lt;/a&gt;
-* &lt;strong&gt;Mickael Debonnaire&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/mdebonnaire&quot;&gt;@mdebonnaire&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Speakers :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Christophe Jollivet&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/jollivetc&quot;&gt;@jollivetc&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mickael Debonnaire&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/mdebonnaire&quot;&gt;@mdebonnaire&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;a id=&quot;tia-4&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -253,9 +256,12 @@
   &lt;p&gt;Au final, nous verrons si le langage est plus fort que l’algorithmique !&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Speakers :
-* &lt;strong&gt;Aurélien Morvant&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/AurelienMorvant&quot;&gt;@AurelienMorvant&lt;/a&gt;
-* &lt;strong&gt;Sylvain Révereault&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/srevereault&quot;&gt;@srevereault&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Speakers :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Aurélien Morvant&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/AurelienMorvant&quot;&gt;@AurelienMorvant&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sylvain Révereault&lt;/strong&gt; - &lt;a href=&quot;https://twitter.com/srevereault&quot;&gt;@srevereault&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;labs-retenus&quot;&gt;&lt;em&gt;Labs&lt;/em&gt; retenus&lt;/h2&gt;
 
