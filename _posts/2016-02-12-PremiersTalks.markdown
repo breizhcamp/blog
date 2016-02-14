@@ -159,7 +159,9 @@ Speaker : **Geoffroy Arnoud**
 >
 >Au cours de cette présentation, nous vous montrerons quelques outils et astuces pour vous permettre de réduire votre boucle de feedback. Nous aborderons les systèmes qui redémarrent automatiquement vos projets ou exécutent vos tests lors des changements de code. Enfin nous vous présenterons des outils permettant de synchroniser vos tests manuels entre plusieurs navigateurs.
 
-Speaker : **Christophe Jollivet** - [@jollivetc](https://twitter.com/jollivetc)
+Speakers :
+* **Christophe Jollivet** - [@jollivetc](https://twitter.com/jollivetc)
+* **Mickael Debonnaire** - [@mdebonnaire](https://twitter.com/mdebonnaire)
 
 <a id="tia-4"></a>
 
