@@ -68,9 +68,9 @@ Mais à quoi cela peut-il bien servir ? Le plus simple est de regarder la vidéo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/14w8r41w5Dc" frameborder="0" allowfullscreen></iframe>
 
-[Benjamin](https://twitter.com/OkazariBzh) a développé une application qui
-permettait de scanner le créneau horaire, puis la session. Et d'en faire
-l'association pour préparer le fameux fichier JSON.
+Merci à [Benjamin](https://twitter.com/OkazariBzh) qui a développé une
+application qui permettait de scanner le créneau horaire, puis la session. Et
+d'en faire l'association pour préparer le fameux fichier JSON.
 
 Résumé de la soirée :
 
@@ -81,6 +81,7 @@ Résumé de la soirée :
 - 9 Lab
 - 30 Quickie
 - 13 Univ
+- 3509 revues/votes
 - 88 sessions sélectionnées
 - 85 orateurs retenus
 - 9 pizzas
