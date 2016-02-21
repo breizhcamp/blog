@@ -75,7 +75,7 @@ l'association pour préparer le fameux fichier JSON.
 Résumé de la soirée :
 
 - 5 tracks
-- 253 sessions propositions de sessions au total
+- 253 propositions de sessions au total
 - 48 TiA
 - 153 Conf
 - 9 Lab
