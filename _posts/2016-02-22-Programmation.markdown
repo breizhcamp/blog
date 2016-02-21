@@ -29,7 +29,7 @@ chiffres sont arrondis).
 
 Ensuite choix et assignation de Quikies.
 
-Et enfin, le plus gros morceau, les universités. Il nous a fallu faire une
+Et enfin, le plus gros morceau, les conférences. Il nous a fallu faire une
 sélection dans beaucoup de propositions de bonne qualité. Trouver les
 doublons. Et malheureusement en écarter une partie.
 
