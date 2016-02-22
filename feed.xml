@@ -4,13 +4,113 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://blog.breizhcamp.org//feed.xml" />
 <link rel="alternate" type="text/html" href="http://blog.breizhcamp.org/" />
-<updated>2016-02-14T22:47:29+01:00</updated>
+<updated>2016-02-22T10:44:16+01:00</updated>
 <id>http://blog.breizhcamp.org//</id>
 <author>
   <name>Breizhcamp</name>
   <uri>http://blog.breizhcamp.org//</uri>
   <email>team@breizhcamp.org</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Programmation]]></title>
+ <link rel="alternate" type="text/html" href="http://blog.breizhcamp.org//2016/02/22/Programmation.html" />
+  <id>http://blog.breizhcamp.org//2016/02/22/Programmation</id>
+  <published>2016-02-22T10:00:00+01:00</published>
+  <updated>2016-02-22T10:00:00+01:00</updated>
+  <author>
+    <name>Breizhcamp</name>
+    <uri>http://blog.breizhcamp.org/</uri>
+    <email>team@breizhcamp.org</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Jeudi soir (le 18 février 2016), il y avait une étape très importante pour
+l’équipe de l’organisation du Breizhcamp. Nous devions vous préparer un
+programme qui déchire.&lt;/p&gt;
+
+&lt;p&gt;L’objectif de la soirée, transformer ça :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://blog.breizhcamp.org//images/programme-talks-small.jpg&quot; alt=&quot;Fiches des propositions&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En ça :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://blog.breizhcamp.org//images/programme-schedule.jpg&quot; alt=&quot;Programme&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Oui, on ne voit rien. Mais c’est comme ça ! Je pourrais même dire que c’est fait
+exprès.&lt;/p&gt;
+
+&lt;p&gt;Voici le déroulement de la soirée :&lt;/p&gt;
+
+&lt;p&gt;Nous avons commencé par les piles les plus petites et facile. Faire rentrer 7
+lab dans 8 slots, c’est plus facile que 400 conférences dans 80 slots (les
+chiffres sont arrondis).&lt;/p&gt;
+
+&lt;p&gt;Ensuite choix et assignation de Quikies.&lt;/p&gt;
+
+&lt;p&gt;Et enfin, le plus gros morceau, les conférences. Il nous a fallu faire une
+sélection dans beaucoup de propositions de bonne qualité. Trouver les
+doublons. Et malheureusement en écarter une partie.&lt;/p&gt;
+
+&lt;p&gt;À partir de là, les sessions sont toutes sélectionnées et positionnées pour
+remplir tous les espaces.&lt;/p&gt;
+
+&lt;p&gt;Mais maintenant, le moment le plus important de la soirée arrive. Enfin c’est
+surtout les pizzas qui arrivent.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://blog.breizhcamp.org//images/programme-pizzas.jpg&quot; alt=&quot;Pizzas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le but était de tacher de gras le programme. Et il ne faut pas oublier de
+parler des facilitateurs que nous avons utilisés dans la soirée. Oui nous avons
+des agilistes dans l’équipe :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://blog.breizhcamp.org//images/programme-bieres.jpg&quot; alt=&quot;Bières&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Il fallait bien compléter le stéréotype de la malbouffe de l’ingénieur
+informatique : couple pizzas/bières.&lt;/p&gt;
+
+&lt;p&gt;Une fois bien restaurés, nous avons réorganisé les sessions pour avoir un
+ensemble cohérent.&lt;/p&gt;
+
+&lt;p&gt;Et voilà, la soirée est presque terminée. Il ne nous manquait qu’à tout noter
+pour préparer la programmation au format JSON. L’année dernière la technique
+était simple :
+- Photos
+- Retranscription à la main dans un fichier JSON&lt;/p&gt;
+
+&lt;p&gt;Mais c’était à s’arracher les cheveux. Pour préserver la chevelure magnifique
+des organisateurs - et surtout pour la classe - une application a été
+développée. Et si vous avez été bien attentif, il y a des codes barres sur les
+fiches des sessions. Mais aussi sur le programme vide.&lt;/p&gt;
+
+&lt;p&gt;Mais à quoi cela peut-il bien servir ? Le plus simple est de regarder la vidéo :&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/14w8r41w5Dc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Merci à &lt;a href=&quot;https://twitter.com/OkazariBzh&quot;&gt;Benjamin&lt;/a&gt; qui a développé une
+application qui permettait de scanner le créneau horaire, puis la session. Et
+d’en faire l’association pour préparer le fameux fichier JSON.&lt;/p&gt;
+
+&lt;p&gt;Résumé de la soirée :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;5 tracks&lt;/li&gt;
+  &lt;li&gt;253 propositions de sessions au total&lt;/li&gt;
+  &lt;li&gt;48 TiA&lt;/li&gt;
+  &lt;li&gt;153 Conf&lt;/li&gt;
+  &lt;li&gt;9 Lab&lt;/li&gt;
+  &lt;li&gt;30 Quickie&lt;/li&gt;
+  &lt;li&gt;13 Univ&lt;/li&gt;
+  &lt;li&gt;3509 revues/votes&lt;/li&gt;
+  &lt;li&gt;88 sessions sélectionnées&lt;/li&gt;
+  &lt;li&gt;85 orateurs retenus&lt;/li&gt;
+  &lt;li&gt;9 pizzas&lt;/li&gt;
+  &lt;li&gt;3 packs de bières&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://blog.breizhcamp.org//2016/02/22/Programmation.html&quot;&gt;Programmation&lt;/a&gt; was originally published by Breizhcamp at &lt;a href=&quot;http://blog.breizhcamp.org/&quot;&gt;Breizhcamp&lt;/a&gt; on February 22, 2016.&lt;/p&gt;
+  </content>
+</entry>
 
 
 <entry>
